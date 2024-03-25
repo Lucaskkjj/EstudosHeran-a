@@ -1,0 +1,1 @@
+Esses são meus estudos sobre Herança em Java. Nesse estudo, tentei ao máximo não pegar informações fora as que eu sabia, portanto, tanto a classe Contabilidade quanto a classe Inventário foram feitas pelo meu conhecimento.
